@@ -1,0 +1,136 @@
+*{
+    list-style: none;
+    background-color: #f0f2f5;
+}
+body{
+    padding-top: 50px;
+}
+#nn{
+justify-content: center;
+text-align: center;
+/* margin: 20px auto; */
+}
+#log{
+    font-family: sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    padding: 17px;
+    padding-bottom: 0px;
+}
+img{
+    width: 240px;
+    /* margin-left: 25px; */
+    position: relative;
+    right: 25px;
+    
+}
+ul #input1:focus{
+        border: 1px solid #dddfe2;
+outline: none;
+}
+ul #input1{
+    background-color: #ffffff;
+    direction: rtl;
+    margin-top: 15px;
+    width: 364px;
+    direction: ltr;
+    text-align: revert;
+    height: 46px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+    font-size: 17px;
+    color: #1d2129;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    position: relative;
+    left: -21px;
+}
+li{
+    width: 238px;
+    position: relative;
+    left: -4px;
+background-color: white;
+}
+ul{
+    box-shadow: 0px 0px 10px 4px rgb(216 215 215);
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    box-sizing: 30px;
+    width: 359px;
+    position: relative;
+    right: 50px;
+    height: 400px;
+    background-color: white;
+    /* position: relative; */
+    /* right: -476px; */
+    margin-left: 39%;
+    /* padding: 15px;*/
+}
+/*    background-color: #1877f2;
+    border: none;
+    
+    */
+#button{
+    margin-top: 16px;
+    width: 365px;
+    font-size: 20px;
+    height: 46px;
+    border-radius: 6px;
+    color: white;
+    background-color: #1877f2;
+    border: none;
+    outline: none;
+    position: relative;
+    left: -18px;
+    cursor: grab;
+}
+#facc{
+    position: relative;
+    top: 15px;
+    left: 46px;
+    background-color: inherit;
+    text-decoration: none;
+    color: #1877f2;
+}
+hr{
+    display: inline;
+    background-color: white;
+}
+span{
+    display: inline;
+}
+#footr{
+display: inline;
+    position: relative;
+    left: 37%;
+    bottom: 134px;
+    color: #00000073;
+}
+span{
+    padding: 15px;
+    background-color: white;
+}
+#ff{
+display: inline;
+    position: relative;
+    left: 18.6%;
+    bottom: 77px;
+    background-color: #42b72a;
+    text-decoration: none;
+    /* border: 1px solid green; */
+    color: white;
+    padding: 21px;
+    border-radius: 6px;
+    font-family: inherit;
+    /* width: 128px; */
+    /* font-size: 17px; */
+    letter-spacing: 1px;
+    word-spacing: 4px;
+
+}
